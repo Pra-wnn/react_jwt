@@ -1,26 +1,4 @@
 
-// import './App.css';
-// import { BrowserRouter as Router,Route,Routes,Navigate} from 'react-router-dom'
-// import { HomePage } from './pages/HomePage';
-// import LoginPage from './pages/LoginPage';
-// import Header from './components/Header';
-// import PrivateRoute from './utils/PrivateRoute'
-
-// function App() {
-//   return (
-//     <div className="App">
-//  <Router>
-//         <Header /> 
-//         <Routes>
-//         <Route path="/" element={<PrivateRoute><HomePage /></PrivateRoute>} exact />
-//           <Route path="/login" element={<PrivateRoute><LoginPage /></PrivateRoute>} />         
-//         </Routes>
-//  </Router>
-//       <p>Help Me Win</p>
-//     </div>
-//   );
-// }
-
 
 
 
